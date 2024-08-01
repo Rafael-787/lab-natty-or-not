@@ -12,4 +12,4 @@ Inicialmente a discussão sobre *slogan*, visão geral e outros conceitos da mar
 
 ## 🚀 Resultados
 - [Manual da Marca]()
-- [Logo]()
+- [Logo](Logo.jpg)
